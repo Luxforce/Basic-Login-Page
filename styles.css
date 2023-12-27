@@ -1,0 +1,39 @@
+h1 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+}
+
+#signin {
+    display: none;
+}
+
+#signup {
+    display: none;
+}
+
+#signinbtn {
+    color: purple;
+    background-color: pink;
+}
+
+#signupbtn {
+     color: purple;
+     background-color: pink;
+}
+
+#welcometext{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+}
+
+#loginbtn {
+    background-color: pink;
+    color: purple;
+}
+
+#CreateAccount {
+    background-color: pink;
+    color: purple;
+}
